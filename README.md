@@ -1,8 +1,8 @@
-<h1 align="left">Hola 👋</h1>
+<h1 align="left">Hey! 👋</h1>
 
 ###
 
-<h2 align="left">Desarrollo con:</h2>
+<h2 align="left">Icode with:</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Encuentrame</h2>
+<h2 align="left">Find me!</h2>
 
 ###
 
