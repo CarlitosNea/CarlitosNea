@@ -1,3 +1,11 @@
+<h1 align="left">Hola 👋</h1>
+
+###
+
+<h2 align="left">Desarrollo con:</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -54,15 +62,15 @@
 
 ###
 
+<h2 align="left">Encuentrame</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-damian-rodr%C3%ADguez-8a566a22a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/CarlitosNea/CarlitosNea/output/snake.svg" alt="Snake animation" />
 
 ###
 
