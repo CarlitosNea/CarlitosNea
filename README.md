@@ -5,8 +5,8 @@
 
 <p>👨‍💻 SOFTWARE DEVELOPER (JUNIOR BUT NOT FOR LONG) </p>
 <p>👨‍🎓 SOFTWARE ANALYSIS AND DEVELOPMENT TECHNOLOGIST </p>
-<p>➢ I´M BETTER THAN YESTERDAY & TOMORROW I´M GONNA BE BETTER THAN TODAY </p>
-<p>➢ YOU NEVER STOP LEARNING </p>
+<p>➢ I´m better than yesterday & tomorrow I´m gonna be better than today </p>
+<p>➢ Never stop learning </p>
 
 ###
 <h2 align="left">I code with:</h2>
