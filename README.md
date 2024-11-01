@@ -88,3 +88,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/CarlitosNea/CarlitosNea/output/snake.svg" alt="Snake animation" />
+
+###
