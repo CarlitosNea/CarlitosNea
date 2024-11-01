@@ -1,7 +1,14 @@
 <h1 align="left">Hey! 👋</h1>
 
 ###
+<h2 align="left">About me:</h2>
 
+<p>👨‍💻 SOFTWARE DEVELOPER (JUNIOR BUT NOT FOR LONG) </p>
+<p>👨‍🎓 SOFTWARE ANALYSIS AND DEVELOPMENT TECHNOLOGIST </p>
+<p>I´M BETTER THAN YESTERDAY & TOMORROW I´M GONNA BE BETTER THAN TODAY </p>
+<p>YOU NEVER STOP LEARNING </p>
+
+###
 <h2 align="left">I code with:</h2>
 
 ###
