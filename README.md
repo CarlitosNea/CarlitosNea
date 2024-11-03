@@ -2,7 +2,9 @@
 
 ##
 
-![Banner Github] (mybanner.png)
+<div align="center">
+  <img height="200" src="mybanner.png"  />
+</div>
 
 ###
 <h2 align="left">About me:</h2>
