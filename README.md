@@ -2,9 +2,7 @@
 
 ##
 
-<div align="center">
-  <img height="300px" src="mybanner.png"  />
-</div>
+<img border-radius="25px" height="300px" src="mybanner.png"  />
 
 ###
 <h2 align="left">About me:</h2>
