@@ -1,8 +1,9 @@
 <h1 align="left">Hey! 👋</h1>
 
 ##
-
-<img border-radius="25px" height="300px" src="mybanner.png"  />
+<div align="center" border-radius="25px">
+  <img height="300px" src="mybanner.png"  />
+</div>
 
 ###
 <h2 align="left">About me:</h2>
