@@ -9,6 +9,18 @@
 <p>➢ Never stop learning </p>
 
 ###
+
+<h2 align="left">Find me!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-damian-rodr%C3%ADguez-8a566a22a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 <h2 align="left">I code with:</h2>
 
 ###
@@ -67,17 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-###
-
-<h2 align="left">Find me!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/carlos-damian-rodr%C3%ADguez-8a566a22a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
