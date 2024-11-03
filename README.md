@@ -1,7 +1,6 @@
 <h1 align="left">Hey! 👋</h1>
 
-##
-<div align="center" border-radius="25px">
+<div align="center">
   <img height="300px" src="mybanner.png"  />
 </div>
 
