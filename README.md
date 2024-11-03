@@ -3,7 +3,7 @@
 ###
 <h2 align="left">About me:</h2>
 
-<p>👨‍💻 SOFTWARE DEVELOPER (JUNIOR BUT NOT FOR LONG) </p>
+<p>👨‍💻 FULL STACK SOFTWARE DEVELOPER (JUNIOR BUT NOT FOR LONG) </p>
 <p>👨‍🎓 SOFTWARE ANALYSIS AND DEVELOPMENT TECHNOLOGIST </p>
 <p>➢ I´m better than yesterday & tomorrow I´m gonna be better than today </p>
 <p>➢ Never stop learning </p>
