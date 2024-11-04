@@ -1,4 +1,4 @@
-<h1 align="left">Hey! 👋</h1>
+<h1 align="left">Hey there! 👋</h1>
 
 <div align="center">
   <img height="300px" src="mybanner1.png"  />
