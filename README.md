@@ -1,7 +1,7 @@
 <h1 align="left">Hey! 👋</h1>
 
 <div align="center">
-  <img height="300px" src="mybanner.png"  />
+  <img height="300px" src="mybanner1.png"  />
 </div>
 
 ###
